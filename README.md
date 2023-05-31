@@ -6,7 +6,6 @@
     <i>
       <b>I'm Ashna</B>.<br>
         Passionate DevOps engineer with expertise in automating and streamlining software delivery processes.<br>
-         Dedicated to implementing efficient CI/CD pipelines, optimizing infrastructure, and improving deployment strategies.<br>
          Experienced in cloud technologies, containerization, and configuration management tools.<br>
     </i><br>
        <a href="https://www.linkedin.com/in/ashna-rasheed-5286611b2">
