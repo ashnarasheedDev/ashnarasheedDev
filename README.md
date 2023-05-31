@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**ashnarasheedDev/ashnarasheedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <b>Welcome to my Git!</b><br><br>
+    <i>
+      <b>I'm Ashna</B>.<br>
+        Passionate DevOps engineer with expertise in automating and streamlining software delivery processes.<br>
+         Dedicated to implementing efficient CI/CD pipelines, optimizing infrastructure, and improving deployment strategies.<br>
+         Experienced in cloud technologies, containerization, and configuration management tools.<br>
+    </i><br>
+       <a href="https://www.linkedin.com/in/ashna-rasheed-5286611b2">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
